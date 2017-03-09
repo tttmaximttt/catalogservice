@@ -1,0 +1,36 @@
+hash: 011ecd40b08b3784e2fc3534c54c9474b9cc83306f9aec439a43242456c7823c
+updated: 2017-03-09T22:46:48.469917651+02:00
+imports:
+- name: github.com/cenkalti/backoff
+  version: 4dc77674aceaabba2c7e3da25d4c823edfb73f99
+- name: github.com/clbanning/x2j
+  version: 5ee34bb343f10ecfc125261107681de62f985cf6
+- name: github.com/cloudfoundry-community/go-cfenv
+  version: 3b3d4d0e3aaeae8f0b7d0d41257228e92cef463e
+- name: github.com/cloudnativego/cf-tools
+  version: f59655db37a9fbf2c5cf9095211b9950ff2dab24
+- name: github.com/codegangsta/negroni
+  version: fde5e16d32adc7ad637e9cd9ad21d4ebc6192535
+- name: github.com/franela/goreq
+  version: 9df54ca75ad62b6295f33ca96e16a2ca10bc137a
+- name: github.com/gorilla/context
+  version: 08b5f424b9271eedf6f9f0ce86cb9396ed337a42
+- name: github.com/gorilla/mux
+  version: 392c28fe23e1c45ddba891b0320b3b5df220beea
+- name: github.com/hudl/fargo
+  version: 14ced469f7dc175f6fbf9f55d799f9f12e302965
+- name: github.com/miekg/dns
+  version: f01e44c2fdbf755201344b5b7917f974a4badd13
+- name: github.com/mitchellh/mapstructure
+  version: 53818660ed4955e899c0bcafa97299a388bd7c8e
+- name: github.com/op/go-logging
+  version: d2e44aa77b7195c0ef782189985dd8550e22e4de
+- name: github.com/unrolled/render
+  version: 50716a0a853771bb36bfce61a45cdefdb98c2e6e
+- name: gopkg.in/gcfg.v1
+  version: 0ef1a8547f99b94fac9af5377dd72febba18f37c
+  subpackages:
+  - scanner
+  - token
+  - types
+testImports: []

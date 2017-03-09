@@ -1,0 +1,12 @@
+package: github.com/catalogservice
+import:
+- package: github.com/cloudfoundry-community/go-cfenv
+  version: ~1.15.0
+- package: github.com/cloudnativego/cf-tools
+- package: github.com/codegangsta/negroni
+  version: ~0.2.0
+- package: github.com/gorilla/mux
+  version: ~1.3.0
+- package: github.com/unrolled/render
+- package: github.com/hudl/fargo
+  version: ~1.3.1
